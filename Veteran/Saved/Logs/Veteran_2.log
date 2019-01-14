@@ -1,0 +1,855 @@
+﻿Log file open, 01/14/19 14:51:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Veteran
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.873765
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.164s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.14-13.51.32:408][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-13.51.32:408][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.14-13.51.32:433][  0]LogHAL: Display: Platform has ~ 8 GB [8465842176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.14-13.51.32:434][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.14-13.51.32:434][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.14-13.51.32:442][  0]LogInit: Computer: DESKTOP-OQHTTIV
+[2019.01.14-13.51.32:442][  0]LogInit: User: Tanguy
+[2019.01.14-13.51.32:442][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.14-13.51.32:442][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.01.14-13.51.32:443][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.14-13.51.32:443][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.14-13.51.32:443][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.00 MB peak
+[2019.01.14-13.51.32:443][  0]LogMemory: Process Virtual Memory: 90.83 MB used, 90.83 MB peak
+[2019.01.14-13.51.32:443][  0]LogMemory: Physical Memory: 5437.39 MB used,  2636.27 MB free, 8073.66 MB total
+[2019.01.14-13.51.32:443][  0]LogMemory: Virtual Memory: 4645.25 MB used,  2636.27 MB free, 134217728.00 MB total
+[2019.01.14-13.51.32:541][  0]LogInit: Using OS detected language (fr-FR).
+[2019.01.14-13.51.32:541][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.01.14-13.51.32:545][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.01.14-13.51.32:578][  0]LogStreaming: Display: Took  0.037s to InitEngineTextLocalization.
+[2019.01.14-13.51.32:579][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.14-13.51.32:700][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.14-13.51.32:700][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.14-13.51.36:009][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-13.51.36:009][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.14-13.51.36:178][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.14-13.51.36:178][  0]LogD3D11RHI:       2987/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.14-13.51.36:195][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.14-13.51.36:195][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.14-13.51.36:199][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.14-13.51.36:199][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.14-13.51.36:199][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.14-13.51.36:231][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.14-13.51.36:231][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.14-13.51.36:231][  0]LogWindows: EnumDisplayDevices:
+[2019.01.14-13.51.36:231][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.14-13.51.36:232][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.14-13.51.36:232][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.14-13.51.36:232][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.14-13.51.36:232][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.14-13.51.36:233][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.14-13.51.36:233][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.14-13.51.36:233][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.14-13.51.36:233][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.14-13.51.36:233][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.01.14-13.51.36:233][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.01.14-13.51.36:233][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.01.14-13.51.36:280][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.14-13.51.36:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.14-13.51.36:315][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Intermediate/Shaders/WorkingDirectory/12312/).
+[2019.01.14-13.51.36:315][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tanguy/AppData/Local/Temp/UnrealShaderWorkingDir/8FA006364B0559B974829AB9DFD10281/'.
+[2019.01.14-13.51.36:880][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.14-13.51.36:896][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.14-13.51.36:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.14-13.51.36:927][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.14-13.51.36:943][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.14-13.51.36:961][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.14-13.51.36:975][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.14-13.51.36:991][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.14-13.51.37:002][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-13.51.37:128][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.14-13.51.37:233][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.14-13.51.37:233][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.14-13.51.37:295][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.14-13.51.37:295][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.14-13.51.37:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.14-13.51.37:331][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.14-13.51.37:348][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.14-13.51.37:375][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.14-13.51.37:395][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.14-13.51.37:395][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.14-13.51.37:569][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.14-13.51.37:569][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.14-13.51.37:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.14-13.51.40:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.14-13.51.40:445][  0]LogDerivedDataCache: Loaded boot cache 0.40s 71MB C:/Users/Tanguy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.14-13.51.40:445][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tanguy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.14-13.51.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.14-13.51.40:446][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.14-13.51.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.14-13.51.40:446][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.14-13.51.40:487][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.14-13.51.40:501][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tanguy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.14-13.51.40:501][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.14-13.51.40:501][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.14-13.51.40:553][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.14-13.51.40:563][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.14-13.51.40:601][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.14-13.51.41:057][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2019.01.14-13.51.41:542][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-13.51.41:828][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.14-13.51.41:858][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.14-13.51.41:858][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.14-13.51.41:860][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.14-13.51.41:861][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.14-13.51.41:911][  0]LogNetVersion: Veteran 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2384537149)
+[2019.01.14-13.51.42:677][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119473 seconds
+[2019.01.14-13.51.42:684][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.14-13.51.42:684][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.14-13.51.42:684][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.14-13.51.46:467][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.14-13.51.46:482][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.14-13.51.46:845][  0]SourceControl: Source control is disabled
+[2019.01.14-13.51.48:198][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.14-13.51.48:296][  0]LogOcInput: OculusInput pre-init called
+[2019.01.14-13.51.48:426][  0]LogEngine: Initializing Engine...
+[2019.01.14-13.51.48:431][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-13.51.48:436][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.14-13.51.48:436][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-13.51.48:436][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.14-13.51.48:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-13.51.48:731][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.14-13.51.48:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.14-13.51.48:860][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-13.51.48:925][  0]LogInit: FAudioDevice initialized.
+[2019.01.14-13.51.48:925][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.14-13.51.49:022][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Tanguy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.14-13.51.49:043][  0]LogInit: Texture streaming: Enabled
+[2019.01.14-13.51.49:078][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.14-13.51.49:109][  0]LogInit: Transaction tracking system initialized
+[2019.01.14-13.51.49:180][  0]BlueprintLog: New page: Editor Load
+[2019.01.14-13.51.49:468][  0]LocalizationService: Localization service is disabled
+[2019.01.14-13.51.49:991][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.14-13.51.49:992][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.14-13.51.49:993][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.14-13.51.49:993][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.14-13.51.49:993][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-13.51.49:993][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.14-13.51.49:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-13.51.50:381][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/' took 0.07s
+[2019.01.14-13.51.50:381][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-13.51.50:392][  0]LightingResults: New page: Lighting Build
+[2019.01.14-13.51.50:403][  0]MapCheck: New page: Map Check
+[2019.01.14-13.51.50:403][  0]LightingResults: New page: Lighting Build
+[2019.01.14-13.51.51:437][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.01.14-13.51.51:437][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.01.14-13.51.51:437][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.01.14-13.51.51:437][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.01.14-13.51.51:438][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.01.14-13.51.51:438][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.01.14-13.51.51:456][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] [0025,12] Compile of KallariPlayerCharacter successful, but with 6 Warning(s) [in 80 ms] (/Game/ParagonKallari/Characters/Heroes/Kallari/KallariPlayerCharacter.KallariPlayerCharacter)
+[2019.01.14-13.51.51:482][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.14-13.51.51:482][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset.
+[2019.01.14-13.51.51:482][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff
+[2019.01.14-13.51.51:483][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.14-13.51.51:483][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset.
+[2019.01.14-13.51.51:483][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff
+[2019.01.14-13.51.51:490][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.14-13.51.51:490][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset.
+[2019.01.14-13.51.51:490][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01
+[2019.01.14-13.51.51:491][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.14-13.51.51:491][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset.
+[2019.01.14-13.51.51:491][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01
+[2019.01.14-13.51.52:688][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.14-13.51.52:688][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.T_SoftFallOff Referenced by M_Flare_03_INST
+[2019.01.14-13.51.52:688][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading NULL.
+[2019.01.14-13.51.52:688][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.T_SoftFallOff Referenced by M_Flare_03_INST
+[2019.01.14-13.51.52:690][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.14-13.51.52:690][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.T_GlowNoise_01 Referenced by M_Shockwave_03_Add_INST
+[2019.01.14-13.51.52:690][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading NULL.
+[2019.01.14-13.51.52:690][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.T_GlowNoise_01 Referenced by M_Shockwave_03_Add_INST
+[2019.01.14-13.51.53:847][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.14-13.51.53:864][  0]LogScript: Warning: Script Msg: Divide by zero detected: 89.999992 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-13.51.53:883][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/Animations) is flushing async loading
+[2019.01.14-13.51.53:883][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.14-13.51.53:890][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.14-13.51.53:891][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:892][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.14-13.51.53:892][  0]LoadErrors: Failed to load /Game/MyLevels/Animations_BuiltData.Animations_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:892][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:892][  0]LoadErrors: Failed to load /Game/MyLevels/Animations_BuiltData.Animations_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:896][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/LD) is flushing async loading
+[2019.01.14-13.51.53:907][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.14-13.51.53:907][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:907][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.14-13.51.53:907][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:908][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.14-13.51.53:908][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:908][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.14-13.51.53:908][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:909][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.14-13.51.53:909][  0]LoadErrors: Failed to load /Game/MyLevels/LD_BuiltData.LD_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:909][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:909][  0]LoadErrors: Failed to load /Game/MyLevels/LD_BuiltData.LD_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:914][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/VFX_SFX) is flushing async loading
+[2019.01.14-13.51.53:920][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.14-13.51.53:920][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:920][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.14-13.51.53:921][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:921][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.14-13.51.53:921][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:921][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.14-13.51.53:921][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:922][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.14-13.51.53:922][  0]LoadErrors: Failed to load /Game/MyLevels/VFX_SFX_BuiltData.VFX_SFX_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:922][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:922][  0]LoadErrors: Failed to load /Game/MyLevels/VFX_SFX_BuiltData.VFX_SFX_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:923][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/Lighting) is flushing async loading
+[2019.01.14-13.51.53:929][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.14-13.51.53:929][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:929][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.14-13.51.53:930][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:930][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.14-13.51.53:930][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:930][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.14-13.51.53:930][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:931][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.14-13.51.53:931][  0]LoadErrors: Failed to load /Game/MyLevels/Lighting_BuiltData.Lighting_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:931][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.14-13.51.53:931][  0]LoadErrors: Failed to load /Game/MyLevels/Lighting_BuiltData.Lighting_BuiltData Referenced by PersistentLevel
+[2019.01.14-13.51.53:932][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.01.14-13.51.53:966][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-13.51.54:115][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 148,624ms to complete.
+[2019.01.14-13.51.54:115][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 3.734
+[2019.01.14-13.51.54:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.51.54:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.51.54:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.51.54:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.51.54:415][  0]LogCollectionManager: Loaded 0 collections in 0.003266 seconds
+[2019.01.14-13.51.54:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Collections/' took 0.01s
+[2019.01.14-13.51.54:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/Developers/Tanguy/Collections/' took 0.01s
+[2019.01.14-13.51.54:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/Collections/' took 0.01s
+[2019.01.14-13.51.54:470][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.14-13.51.54:486][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2572 classes and 603 folders.
+[2019.01.14-13.51.54:499][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.14-13.51.55:108][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.14-13.51.55:119][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.01.14-13.51.55:277][  0]LogSlate: Took 0.007821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.14-13.51.55:290][  0]LogSlate: Took 0.010631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.14-13.51.55:305][  0]LogSlate: Took 0.006592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.14-13.51.55:455][  0]LogRenderer: Reallocating scene render targets to support 772x460 Format 10 NumSamples 1 (Frame:1).
+[2019.01.14-13.51.55:729][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.14-13.51.55:729][  0]LogLoad: (Engine Initialization) Total time: 29.39 seconds
+[2019.01.14-13.51.55:729][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.14-13.51.55:830][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-13.51.55:837][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-13.51.56:072][  2]LogSlate: Took 0.009977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.14-13.51.56:224][  5]LogAssetRegistry: Asset discovery search completed in 15.1914 seconds
+[2019.01.14-13.51.56:228][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.14-13.51.56:228][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2019.01.14-13.51.58:542][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.01.14-13.51.58:546][ 12]LogSlate: Window 'Message Log' being destroyed
+[2019.01.14-13.52.00:162][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-13.52.03:731][318]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW'
+[2019.01.14-13.52.03:731][318]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_Scree002b.uasset.
+[2019.01.14-13.52.03:731][318]LoadErrors: Error: /Game/env_assets/SM_Scree002b : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW
+[2019.01.14-13.52.03:731][318]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW'
+[2019.01.14-13.52.03:732][318]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_Scree002b.uasset.
+[2019.01.14-13.52.03:733][318]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW'
+[2019.01.14-13.52.03:733][318]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW.MI_Scree002_NEW Referenced by SM_Scree002b
+[2019.01.14-13.52.03:733][318]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/MI_Scree002_NEW' while loading NULL.
+[2019.01.14-13.52.17:706][947]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.14-13.52.18:005][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:005][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_Boulder05a.uasset.
+[2019.01.14-13.52.18:005][947]LoadErrors: Error: /Game/env_assets/SM_Boulder05a : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a
+[2019.01.14-13.52.18:005][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:006][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_Boulder05a.uasset.
+[2019.01.14-13.52.18:015][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:016][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_GroundRevealRock002.uasset.
+[2019.01.14-13.52.18:016][947]LoadErrors: Error: /Game/env_assets/SM_GroundRevealRock002 : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002
+[2019.01.14-13.52.18:016][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:016][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_GroundRevealRock002.uasset.
+[2019.01.14-13.52.18:023][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002'
+[2019.01.14-13.52.18:023][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_LargePlainsBoulder002.uasset.
+[2019.01.14-13.52.18:023][947]LoadErrors: Error: /Game/env_assets/SM_LargePlainsBoulder002 : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002
+[2019.01.14-13.52.18:023][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002'
+[2019.01.14-13.52.18:024][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_LargePlainsBoulder002.uasset.
+[2019.01.14-13.52.18:029][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock'
+[2019.01.14-13.52.18:029][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_MountainRock.uasset.
+[2019.01.14-13.52.18:029][947]LoadErrors: Error: /Game/env_assets/SM_MountainRock : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock
+[2019.01.14-13.52.18:030][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock'
+[2019.01.14-13.52.18:030][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_MountainRock.uasset.
+[2019.01.14-13.52.18:041][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:041][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_MountainRock_Closed.uasset.
+[2019.01.14-13.52.18:042][947]LoadErrors: Error: /Game/env_assets/SM_MountainRock_Closed : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed
+[2019.01.14-13.52.18:042][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:043][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_MountainRock_Closed.uasset.
+[2019.01.14-13.52.18:050][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01'
+[2019.01.14-13.52.18:051][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_River_Rock_01.uasset.
+[2019.01.14-13.52.18:051][947]LoadErrors: Error: /Game/env_assets/SM_River_Rock_01 : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01
+[2019.01.14-13.52.18:051][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01'
+[2019.01.14-13.52.18:052][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01' while loading ../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/env_assets/SM_River_Rock_01.uasset.
+[2019.01.14-13.52.18:166][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:167][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002.MI_GroundRevealRock002 Referenced by SM_GroundRevealRock002
+[2019.01.14-13.52.18:167][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:168][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:168][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:168][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:169][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:169][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:169][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:170][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:170][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:170][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:171][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:171][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002'
+[2019.01.14-13.52.18:171][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002' while loading NULL.
+[2019.01.14-13.52.18:173][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:173][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a.MI_Boulder05a Referenced by SM_Boulder05a
+[2019.01.14-13.52.18:173][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading NULL.
+[2019.01.14-13.52.18:174][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:174][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading NULL.
+[2019.01.14-13.52.18:175][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:175][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading NULL.
+[2019.01.14-13.52.18:175][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a'
+[2019.01.14-13.52.18:176][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a' while loading NULL.
+[2019.01.14-13.52.18:178][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock'
+[2019.01.14-13.52.18:178][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock.MI_MountainRock Referenced by SM_MountainRock
+[2019.01.14-13.52.18:178][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock' while loading NULL.
+[2019.01.14-13.52.18:180][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002'
+[2019.01.14-13.52.18:181][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002.MI_LargePlainsBoulder002 Referenced by SM_LargePlainsBoulder002
+[2019.01.14-13.52.18:181][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002' while loading NULL.
+[2019.01.14-13.52.18:182][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002'
+[2019.01.14-13.52.18:182][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002' while loading NULL.
+[2019.01.14-13.52.18:183][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002'
+[2019.01.14-13.52.18:184][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/MI_LargePlainsBoulder002' while loading NULL.
+[2019.01.14-13.52.18:212][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:212][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed.MI_MountainRock_Closed Referenced by SM_MountainRock_Closed
+[2019.01.14-13.52.18:212][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading NULL.
+[2019.01.14-13.52.18:212][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:213][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading NULL.
+[2019.01.14-13.52.18:214][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:214][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading NULL.
+[2019.01.14-13.52.18:215][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed'
+[2019.01.14-13.52.18:215][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock_Closed' while loading NULL.
+[2019.01.14-13.52.18:217][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01'
+[2019.01.14-13.52.18:217][947]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01.MI_River_Rock_01 Referenced by SM_River_Rock_01
+[2019.01.14-13.52.18:217][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01' while loading NULL.
+[2019.01.14-13.52.18:218][947]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01'
+[2019.01.14-13.52.18:219][947]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/MI_River_Rock_01' while loading NULL.
+[2019.01.14-13.52.18:941][947]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-13.52.18:972][947]LogAssetEditorManager: Opening Asset editor for World /Game/MyLevels/Smash_The_Target.Smash_The_Target
+[2019.01.14-13.52.19:008][947]Cmd: MAP LOAD FILE="../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-13.52.19:009][947]LightingResults: New page: Lighting Build
+[2019.01.14-13.52.19:009][947]LoadErrors: New page: Loading map: Smash_The_Target.umap
+[2019.01.14-13.52.19:012][947]MapCheck: New page: Map Check
+[2019.01.14-13.52.19:012][947]LightingResults: New page: Lighting Build
+[2019.01.14-13.52.19:232][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.14-13.52.19:283][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.14-13.52.19:430][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 147,119ms to complete.
+[2019.01.14-13.52.19:432][947]LogFileHelpers: Loading map 'Smash_The_Target' took 0.424
+[2019.01.14-13.52.26:574][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-13.52.26:681][366]LogActorFactory: Actor Factory created Plane
+[2019.01.14-13.52.27:076][389]LogActorFactory: Actor Factory created Plane
+[2019.01.14-13.52.38:090][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-13.54.24:278][956]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetA35084944656CE9DE1B87A8E6C4670CC.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-13.54.24:673][956]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltDataD97530B146C776658598A08CBE62D673.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-13.57.13:405][474]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Movies/NewFileMediaSource.NewFileMediaSource
+[2019.01.14-13.57.25:981][ 75]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/NewFileMediaSource13668EF6469BC65ABBD2EBA488EFB8AB.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/Movies/NewFileMediaSource.uasset'
+[2019.01.14-13.57.39:705][212]LogSlate: Window 'NewFileMediaSource - Generic Asset Editor' being destroyed
+[2019.01.14-13.57.39:709][212]LogSlate: Window 'NewFileMediaSource - Generic Asset Editor' being destroyed
+[2019.01.14-13.57.42:380][304]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Movies/NewFileMediaSource.NewFileMediaSource
+[2019.01.14-13.57.44:329][415]LogSlate: Window 'NewFileMediaSource - Generic Asset Editor' being destroyed
+[2019.01.14-13.57.44:334][415]LogSlate: Window 'NewFileMediaSource - Generic Asset Editor' being destroyed
+[2019.01.14-13.57.50:522][627]LogSlate: Window 'Create Media Player' being destroyed
+[2019.01.14-13.57.59:065][976]LogAssetEditorManager: Opening Asset editor for MediaPlayer /Game/Movies/NewMediaPlayer.NewMediaPlayer
+[2019.01.14-13.57.59:096][976]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.01.14-13.57.59:148][976]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.14-13.57.59:148][976]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.14-13.57.59:202][976]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2019.01.14-13.58.20:917][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/NewMediaPlayer" FILE="../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/Movies/NewMediaPlayer.uasset" SILENT=true
+[2019.01.14-13.58.20:927][224]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/NewMediaPlayerE7F81AF5484B706D39517CBE2D7555FF.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/Movies/NewMediaPlayer.uasset'
+[2019.01.14-13.58.22:827][321]LogSlate: Window 'NewMediaPlayer' being destroyed
+[2019.01.14-13.58.22:839][321]LogSlate: Window 'NewMediaPlayer' being destroyed
+[2019.01.14-13.58.31:346][483]LogMaterial: Display: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.14-13.58.31:389][483]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.14-13.58.31:389][483]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.14-13.58.31:389][483]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-13.59.27:600][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-13.59.27:845][832]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetC777F21F49134CA9F7B36784C35CF07B.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-13.59.28:174][832]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData0679134C4D365C0973D2F5911FAD916B.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-13.59.30:178][951]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-13.59.30:211][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-13.59.30:237][951]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 15:59:30)
+[2019.01.14-13.59.30:238][951]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-13.59.30:254][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016604s)
+[2019.01.14-13.59.30:263][951]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-13.59.30:265][951]LogPlayLevel: PIE: World Init took: (0.011163s)
+[2019.01.14-13.59.30:265][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.028315s)
+[2019.01.14-13.59.30:315][951]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-13.59.30:373][951]LogInit: FAudioDevice initialized.
+[2019.01.14-13.59.30:424][951]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-13.59.30:446][951]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-14.59.30
+[2019.01.14-13.59.30:447][951]LogWorld: Bringing up level for play took: 0.013596
+[2019.01.14-13.59.30:488][951]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.01.14-13.59.30:494][951]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-13.59.30:517][951]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 1,003
+[2019.01.14-13.59.32:562][ 69]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-13.59.35:316][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.59.35:356][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-13.59.35:391][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-13.59.35:421][235]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.14-13.59.36:833][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.01.14-13.59.38:818][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-13.59.46:855][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-13.59.47:055][916]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target5BFB9FFF49D9B781C7B05F8EFA14DB31.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-13.59.47:316][916]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltDataC102F4514FE7B880B0B08C9C267AF2E7.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-13.59.51:116][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.00.51:658][798]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target338AA8204F3B5540FF99B790830C5EC4.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.00.51:931][798]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData6714D1B24B4D8D0DB1FD37A9364817CA.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.01.04:101][205]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target
+[2019.01.14-14.01.04:672][205]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.01.14-14.01.05:548][205]LogSlate: Took 0.005416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.14-14.01.07:505][306]LogSlate: Window 'Smash_The_Target - Level Blueprint Editor' being destroyed
+[2019.01.14-14.01.07:515][307]LogRenderer: Reallocating scene render targets to support 964x572 Format 10 NumSamples 1 (Frame:14741).
+[2019.01.14-14.01.24:551][144]LogSlate: Took 0.005737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.14-14.01.40:562][974]BlueprintLog: New page: Compile Smash_The_Target
+[2019.01.14-14.01.46:341][274]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target6427E10141409BDCEF53B9976DF25E6A.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.01.46:375][274]LogFileHelpers: Saving map 'Smash_The_Target' took 0.608
+[2019.01.14-14.01.46:721][293]BlueprintLog: New page: Compile Smash_The_Target
+[2019.01.14-14.02.25:080][834]LogSlate: Took 0.010469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.14-14.02.41:963][482]BlueprintLog: New page: Compile Smash_The_Target
+[2019.01.14-14.02.43:558][529]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetE42BDF6D4B35E39765523C9F1DACCBED.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.02.43:595][529]LogFileHelpers: Saving map 'Smash_The_Target' took 0.540
+[2019.01.14-14.02.45:492][616]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetAB00168F451416B834CFC9AB87DAAF12.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.02.45:764][616]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData21EEA2194CB560EAC3F008A6EE848D1E.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.02.46:311][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.02.46:329][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.02.46:329][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.02.46:330][649]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:02:46)
+[2019.01.14-14.02.46:330][649]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.02.46:336][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006686s)
+[2019.01.14-14.02.46:338][649]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.02.46:338][649]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2019.01.14-14.02.46:338][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.008219s)
+[2019.01.14-14.02.46:371][649]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.02.46:419][649]LogInit: FAudioDevice initialized.
+[2019.01.14-14.02.46:457][649]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.02.46:460][649]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.02.46
+[2019.01.14-14.02.46:460][649]LogWorld: Bringing up level for play took: 0.002464
+[2019.01.14-14.02.46:475][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.02.46:481][649]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,967
+[2019.01.14-14.02.46:482][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.02.48:651][776]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.02.57:853][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.02.57:882][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.02.57:927][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.02.57:927][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.02.57:971][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.02.58:007][329]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.14-14.02.59:033][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.01.14-14.03.29:704][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.06.33:068][ 41]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target14EE16F044FE33251BA5B383583A10C8.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.06.33:356][ 41]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData0A389FA44729D46E066409B6AB341FD2.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.06.33:685][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.06.33:706][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.06.33:706][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.06.33:706][ 60]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:06:33)
+[2019.01.14-14.06.33:706][ 60]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.06.33:714][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007630s)
+[2019.01.14-14.06.33:715][ 60]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.06.33:715][ 60]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2019.01.14-14.06.33:715][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.009117s)
+[2019.01.14-14.06.33:750][ 60]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.06.33:800][ 60]LogInit: FAudioDevice initialized.
+[2019.01.14-14.06.33:834][ 60]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.06.33:838][ 60]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.06.33
+[2019.01.14-14.06.33:838][ 60]LogWorld: Bringing up level for play took: 0.002557
+[2019.01.14-14.06.33:851][ 60]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.06.33:854][ 60]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,34
+[2019.01.14-14.06.33:854][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.06.36:036][189]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.06.42:054][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.06.42:080][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.06.42:121][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.06.42:122][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.06.42:187][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.06.42:221][551]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.14-14.06.43:685][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.01.14-14.06.56:531][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.06.56:611][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.06.56:927][399]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetCE0F043C4A1A79181AEF4BBF567D93FA.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.06.57:195][399]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData80CB17A3411A66D101277A9308E409F6.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.06.57:660][427]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.06.57:678][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.06.57:678][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.06.57:678][427]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:06:57)
+[2019.01.14-14.06.57:679][427]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.06.57:685][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006863s)
+[2019.01.14-14.06.57:687][427]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.06.57:687][427]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2019.01.14-14.06.57:687][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.008416s)
+[2019.01.14-14.06.57:723][427]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.06.57:770][427]LogInit: FAudioDevice initialized.
+[2019.01.14-14.06.57:800][427]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.06.57:804][427]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.06.57
+[2019.01.14-14.06.57:804][427]LogWorld: Bringing up level for play took: 0.002508
+[2019.01.14-14.06.57:817][427]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.06.57:821][427]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,307
+[2019.01.14-14.06.57:822][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.07.00:000][555]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.07.41:653][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.07.41:680][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.07.41:717][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.07.41:717][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.07.41:749][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.07.41:781][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.14-14.07.44:885][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.08.17:113][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.08.47:535][962]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target3F462E0E414A401C4F49FB9FE1A21889.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.08.47:808][962]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData1E985124413E80CD6A19189D7385D73C.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.08.49:804][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.08.49:822][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.08.49:823][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.08.49:823][ 81]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:08:49)
+[2019.01.14-14.08.49:823][ 81]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.08.49:830][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007358s)
+[2019.01.14-14.08.49:831][ 81]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.08.49:831][ 81]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2019.01.14-14.08.49:832][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.008740s)
+[2019.01.14-14.08.49:866][ 81]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.08.49:916][ 81]LogInit: FAudioDevice initialized.
+[2019.01.14-14.08.49:949][ 81]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.08.49:956][ 81]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.08.49
+[2019.01.14-14.08.49:957][ 81]LogWorld: Bringing up level for play took: 0.006075
+[2019.01.14-14.08.49:971][ 81]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.08.49:976][ 81]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,461
+[2019.01.14-14.08.49:976][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.08.52:158][210]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.09.03:693][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.09.03:717][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.09.03:754][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.09.03:754][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.09.03:781][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.09.03:813][903]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.14-14.09.06:228][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.09.47:317][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.09.47:392][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.09.47:670][497]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetF4BB9AE647F0813BB4EBD7A3FFCCA242.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.09.47:939][497]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltDataB9EEA9F34FC521FEA3761B9BD74EA049.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.09.55:122][923]Cmd: DELETE
+[2019.01.14-14.09.55:122][923]Cmd: ACTOR DELETE
+[2019.01.14-14.09.55:134][923]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.01.14-14.09.55:167][923]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.01.14-14.09.57:692][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.09.57:770][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.09.58:054][ 74]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetA65FD3F949D99236A3C2309BDE9D7DF1.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.09.58:319][ 74]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltDataF15D9FFF4DE0DAB37C82C9B515291924.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
+[2019.01.14-14.10.04:210][427]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.10.04:229][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.10.04:229][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.10.04:229][427]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:10:04)
+[2019.01.14-14.10.04:230][427]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.10.04:236][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006700s)
+[2019.01.14-14.10.04:237][427]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.10.04:238][427]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2019.01.14-14.10.04:238][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.007995s)
+[2019.01.14-14.10.04:269][427]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.10.04:316][427]LogInit: FAudioDevice initialized.
+[2019.01.14-14.10.04:349][427]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.10.04:355][427]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.10.04
+[2019.01.14-14.10.04:356][427]LogWorld: Bringing up level for play took: 0.006571
+[2019.01.14-14.10.04:372][427]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.10.04:378][427]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,864
+[2019.01.14-14.10.04:379][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.10.06:556][555]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.10.07:911][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.10.07:940][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.10.07:977][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.10.07:977][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.10.08:030][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.10.08:061][637]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.14-14.10.13:634][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.10.28:248][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-14.10.31:065][ 12]EditorErrors: New page: Actor attachment
+[2019.01.14-14.10.33:918][183]EditorErrors: New page: Actor attachment
+[2019.01.14-14.10.57:030][556]MapCheck: New page: Map Check
+[2019.01.14-14.10.57:072][556]LightingResults: New page: Lighting Build - 14 janv. 2019 16:10:57
+[2019.01.14-14.10.57:160][556]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.14-14.10.57:169][556]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.14-14.10.57:212][556]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.14-14.10.57:236][556]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.14-14.10.57:236][556]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12312
+[2019.01.14-14.11.01:923][556]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.14-14.11.01:925][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.14-14.11.01:925][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.14-14.11.01:925][556]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.14-14.11.01:925][556]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.14-14.11.01:925][556]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.14-14.11.02:348][556]LogEditorBuildUtils: Build time 0:05
+[2019.01.14-14.11.02:362][556]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_inferno_yellow, compiling. 
+[2019.01.14-14.11.02:369][556]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_inferno_yellow, compiling. 
+[2019.01.14-14.11.02:390][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-14.11.02:397][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-14.11.02:460][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.14-14.11.02:469][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-14.11.02:469][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.14-14.11.02:482][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.14-14.13.41:314][952]Job is a success!
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.079s
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:      BrickData 1140x5x5 = 1.1Mb (trimmed 1.5Mb due to 0.010000 MinBrickError)
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:          1: 11.0% covering 39.1% of volume
+[2019.01.14-14.13.41:872][953]LogVolumetricLightmapImport:          2: 88.6% covering 4.9% of volume
+[2019.01.14-14.13.42:134][953]LogMaterial: Warning: Material /Game/Movies/NewMediaPlayer_Video_Mat.NewMediaPlayer_Video_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.14-14.13.42:138][953]LogMaterial: Display: Missing cached shader map for material NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.14-14.13.42:191][953]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.14-14.13.42:191][953]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.14-14.13.42:191][953]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.14-14.13.42:191][953]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-14.13.44:200][953]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.01.14-14.13.44:200][953]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.14-14.13.44:200][953]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.14-14.13.44:200][953]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.01.14-14.13.44:201][953]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.01.14-14.13.44:201][953]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.01.14-14.13.44:573][953]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.01.14-14.13.44:596][953]Lightmass on DESKTOP-OQHTTIV: 2:40 min total, 483 ms importing, 1.01 sec setup, 53.6 sec photons, 1:44 min processing, 0 ms extra exporting [301/301 mappings]. Threads: 12:13 min total, 8:58 min processing.
+[2019.01.14-14.13.44:652][953]LogStaticLightingSystem: Illumination: 2:47 min (2.00 sec encoding lightmaps, 367 ms encoding shadowmaps)
+[2019.01.14-14.13.44:652][953]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.14-14.13.44:653][953]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.14-14.13.45:022][953]DumpUnbuiltLightIteractions
+[2019.01.14-14.13.45:023][953]Lights with unbuilt interactions: 0
+[2019.01.14-14.13.45:023][953]
+[2019.01.14-14.13.45:023][953]Primitives with unbuilt interactions: 0
+[2019.01.14-14.13.46:880][954]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.14-14.13.46:880][954]MapCheck: New page: Smash_The_Target - 14 janv. 2019 16:13:46
+[2019.01.14-14.13.47:047][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168,134ms to complete.
+[2019.01.14-14.19.01:463][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-14.19.01:484][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.19.01:484][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-14.19.01:484][980]PIE: New page: PIE session: Smash_The_Target (14 janv. 2019 16:19:01)
+[2019.01.14-14.19.01:484][980]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Smash_The_Target
+[2019.01.14-14.19.01:492][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007525s)
+[2019.01.14-14.19.01:493][980]LogAIModule: Creating AISystem for world Smash_The_Target
+[2019.01.14-14.19.01:493][980]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2019.01.14-14.19.01:493][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Smash_The_Target.Smash_The_Target to /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target (0.009100s)
+[2019.01.14-14.19.01:524][980]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.14-14.19.01:571][980]LogInit: FAudioDevice initialized.
+[2019.01.14-14.19.01:606][980]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.14-14.19.01:610][980]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Smash_The_Target.Smash_The_Target up for play (max tick rate 60) at 2019.01.14-15.19.01
+[2019.01.14-14.19.01:611][980]LogWorld: Bringing up level for play took: 0.003032
+[2019.01.14-14.19.01:623][980]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.14-14.19.01:626][980]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Smash_The_Target 0,112
+[2019.01.14-14.19.01:626][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.19.03:808][110]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.14-14.20.43:056][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.20.43:081][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.20.43:120][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-14.20.43:120][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target' with GeneratedClass '/Game/MyLevels/Smash_The_Target.Smash_The_Target_C' with ClassGeneratedBy '/Game/MyLevels/Smash_The_Target.Smash_The_Target:PersistentLevel.Smash_The_Target'
+[2019.01.14-14.20.43:149][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-14.20.43:177][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.14-14.20.44:108][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.20.44:187][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-14.20.44:492][117]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_TargetF6568CD64731C7996C7DA8BF71885B21.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target.umap'
+[2019.01.14-14.20.45:179][117]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Smash_The_Target_BuiltData58E2905A46183A3976F18695442CEF0F.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Smash_The_Target_BuiltData.uasset'
