@@ -1,0 +1,1034 @@
+﻿Log file open, 01/15/19 09:53:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Veteran
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283579
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.15-08.53.23:396][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.15-08.53.23:396][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.15-08.53.23:412][  0]LogHAL: Display: Platform has ~ 16 GB [17130807296 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.15-08.53.23:412][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.15-08.53.23:412][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.15-08.53.23:412][  0]LogInit: Computer: DESKTOP-EOCAG6T
+[2019.01.15-08.53.23:412][  0]LogInit: User: Antoine
+[2019.01.15-08.53.23:412][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.15-08.53.23:412][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.01.15-08.53.23:413][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.15-08.53.23:413][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.15-08.53.23:413][  0]LogMemory: Process Physical Memory: 100.14 MB used, 100.14 MB peak
+[2019.01.15-08.53.23:413][  0]LogMemory: Process Virtual Memory: 90.91 MB used, 90.91 MB peak
+[2019.01.15-08.53.23:413][  0]LogMemory: Physical Memory: 5208.73 MB used,  11128.48 MB free, 16337.21 MB total
+[2019.01.15-08.53.23:413][  0]LogMemory: Virtual Memory: 4640.48 MB used,  11128.48 MB free, 134217728.00 MB total
+[2019.01.15-08.53.23:824][  0]LogInit: Using OS detected language (fr-FR).
+[2019.01.15-08.53.23:824][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.01.15-08.53.23:825][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.01.15-08.53.23:827][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.01.15-08.53.23:827][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.15-08.53.23:861][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.15-08.53.23:861][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.15-08.53.24:083][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.15-08.53.24:083][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.15-08.53.24:171][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.01.15-08.53.24:171][  0]LogD3D11RHI:       8081/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.15-08.53.24:173][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.15-08.53.24:173][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.15-08.53.24:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.15-08.53.24:182][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.15-08.53.24:182][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.15-08.53.24:182][  0]LogWindows: EnumDisplayDevices:
+[2019.01.15-08.53.24:182][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.01.15-08.53.24:183][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.15-08.53.24:183][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.15-08.53.24:183][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.15-08.53.24:183][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.15-08.53.24:183][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.01.15-08.53.24:183][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.15-08.53.24:183][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.15-08.53.24:183][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.01.15-08.53.24:232][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.15-08.53.24:251][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.15-08.53.24:296][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/UnrealProject/Proket_UE4_Veteran/Veteran/Intermediate/Shaders/WorkingDirectory/11448/).
+[2019.01.15-08.53.24:296][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Antoine/AppData/Local/Temp/UnrealShaderWorkingDir/1C7DD6F14F2CACC3EB3E47BEA236338F/'.
+[2019.01.15-08.53.24:622][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.15-08.53.24:637][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.15-08.53.24:652][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.15-08.53.24:668][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.15-08.53.24:682][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.15-08.53.24:696][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.15-08.53.24:708][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.15-08.53.24:722][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.15-08.53.24:729][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:810][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-08.53.24:811][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.15-08.53.24:877][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.15-08.53.24:877][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.15-08.53.24:900][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.15-08.53.24:900][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.15-08.53.24:912][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.15-08.53.24:924][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.15-08.53.24:936][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.15-08.53.24:948][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.15-08.53.24:957][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.15-08.53.24:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.15-08.53.25:032][  0]LogXGEController: Cleaning working directory: C:/Users/Antoine/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.15-08.53.25:032][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.15-08.53.25:032][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.15-08.53.25:032][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.15-08.53.25:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Antoine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Antoine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealProject/Proket_UE4_Veteran/Veteran/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealProject/Proket_UE4_Veteran/Veteran/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.15-08.53.25:811][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.15-08.53.25:824][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.15-08.53.25:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Antoine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.15-08.53.25:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.15-08.53.25:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.15-08.53.25:852][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.15-08.53.25:854][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.15-08.53.25:854][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.15-08.53.25:928][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2019.01.15-08.53.26:253][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.15-08.53.26:380][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.15-08.53.26:384][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.15-08.53.26:384][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.15-08.53.26:384][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.15-08.53.26:384][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.15-08.53.26:399][  0]LogNetVersion: Veteran 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2384537149)
+[2019.01.15-08.53.26:882][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.081341 seconds
+[2019.01.15-08.53.26:888][  0]LogUObjectArray: 38426 objects as part of root set at end of initial load.
+[2019.01.15-08.53.26:888][  0]LogUObjectAllocator: 6691088 out of 0 bytes used by permanent object pool.
+[2019.01.15-08.53.26:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.15-08.53.27:725][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.15-08.53.27:736][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.15-08.53.27:884][  0]SourceControl: Source control is disabled
+[2019.01.15-08.53.27:884][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2019.01.15-08.53.27:884][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: URL: C:\Users\Antoine\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2019.01.15-08.53.27:885][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.01.15-08.53.28:680][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.15-08.53.28:756][  0]LogOcInput: OculusInput pre-init called
+[2019.01.15-08.53.28:816][  0]LogEngine: Initializing Engine...
+[2019.01.15-08.53.28:837][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.15-08.53.28:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.15-08.53.28:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.15-08.53.28:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.15-08.53.28:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.15-08.53.29:040][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.15-08.53.29:055][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.15-08.53.29:069][  0]LogInit: XAudio2 using 'Casque (PLT BB PRO 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-08.53.29:089][  0]LogInit: FAudioDevice initialized.
+[2019.01.15-08.53.29:089][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.15-08.53.29:165][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Antoine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.15-08.53.29:169][  0]LogInit: Texture streaming: Enabled
+[2019.01.15-08.53.29:185][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.15-08.53.29:199][  0]LogInit: Transaction tracking system initialized
+[2019.01.15-08.53.29:222][  0]BlueprintLog: New page: Editor Load
+[2019.01.15-08.53.29:319][  0]LocalizationService: Localization service is disabled
+[2019.01.15-08.53.29:374][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.01.15-08.53.29:374][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.01.15-08.53.29:374][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.01.15-08.53.29:569][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.15-08.53.29:569][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.15-08.53.29:569][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.15-08.53.29:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.15-08.53.29:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.15-08.53.29:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.15-08.53.29:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.15-08.53.29:677][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/' took 0.03s
+[2019.01.15-08.53.29:685][  0]Cmd: MAP LOAD FILE="D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.15-08.53.29:686][  0]LightingResults: New page: Lighting Build
+[2019.01.15-08.53.29:688][  0]MapCheck: New page: Map Check
+[2019.01.15-08.53.29:688][  0]LightingResults: New page: Lighting Build
+[2019.01.15-08.53.30:134][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.01.15-08.53.30:134][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.01.15-08.53.30:134][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.01.15-08.53.30:134][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.01.15-08.53.30:135][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.01.15-08.53.30:135][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.01.15-08.53.30:147][  0]LogBlueprint: Warning: [Compiler KallariPlayerCharacter] [0008,34] Compile of KallariPlayerCharacter successful, but with 6 Warning(s) [in 47 ms] (/Game/ParagonKallari/Characters/Heroes/Kallari/KallariPlayerCharacter.KallariPlayerCharacter)
+[2019.01.15-08.53.30:164][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.15-08.53.30:164][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset.
+[2019.01.15-08.53.30:165][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff
+[2019.01.15-08.53.30:165][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.15-08.53.30:165][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset.
+[2019.01.15-08.53.30:165][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff
+[2019.01.15-08.53.30:168][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.15-08.53.30:168][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset.
+[2019.01.15-08.53.30:168][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01
+[2019.01.15-08.53.30:169][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.15-08.53.30:169][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST.uasset.
+[2019.01.15-08.53.30:169][  0]LoadErrors: Error: /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_03_Add_INST : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01
+[2019.01.15-08.53.30:586][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01'
+[2019.01.15-08.53.30:586][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.T_GlowNoise_01 Referenced by M_Shockwave_03_Add_INST
+[2019.01.15-08.53.30:586][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01' while loading NULL.
+[2019.01.15-08.53.30:586][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_GlowNoise_01.T_GlowNoise_01 Referenced by M_Shockwave_03_Add_INST
+[2019.01.15-08.53.30:587][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff'
+[2019.01.15-08.53.30:587][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.T_SoftFallOff Referenced by M_Flare_03_INST
+[2019.01.15-08.53.30:587][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff' while loading NULL.
+[2019.01.15-08.53.30:587][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.T_SoftFallOff Referenced by M_Flare_03_INST
+[2019.01.15-08.53.31:101][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.15-08.53.31:107][  0]LogScript: Warning: Script Msg: Divide by zero detected: 89.999992 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-08.53.31:112][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/Animations) is flushing async loading
+[2019.01.15-08.53.31:112][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.15-08.53.31:113][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.15-08.53.31:113][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.15-08.53.31:114][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:115][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Animations_BuiltData'
+[2019.01.15-08.53.31:115][  0]LoadErrors: Failed to load /Game/MyLevels/Animations_BuiltData.Animations_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:116][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Animations_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:116][  0]LoadErrors: Failed to load /Game/MyLevels/Animations_BuiltData.Animations_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:117][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/LD) is flushing async loading
+[2019.01.15-08.53.31:118][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.15-08.53.31:118][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:118][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.15-08.53.31:118][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/LD_BuiltData'
+[2019.01.15-08.53.31:119][  0]LoadErrors: Failed to load /Game/MyLevels/LD_BuiltData.LD_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:119][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/LD_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:120][  0]LoadErrors: Failed to load /Game/MyLevels/LD_BuiltData.LD_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:122][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/VFX_SFX) is flushing async loading
+[2019.01.15-08.53.31:123][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.15-08.53.31:123][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:123][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.15-08.53.31:123][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/VFX_SFX_BuiltData'
+[2019.01.15-08.53.31:124][  0]LoadErrors: Failed to load /Game/MyLevels/VFX_SFX_BuiltData.VFX_SFX_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:124][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/VFX_SFX_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:124][  0]LoadErrors: Failed to load /Game/MyLevels/VFX_SFX_BuiltData.VFX_SFX_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:125][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyLevels/Lighting) is flushing async loading
+[2019.01.15-08.53.31:126][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.15-08.53.31:126][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.15-08.53.31:127][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:128][  0]LogLinker: Warning: Can't find file '/Game/MyLevels/Lighting_BuiltData'
+[2019.01.15-08.53.31:128][  0]LoadErrors: Failed to load /Game/MyLevels/Lighting_BuiltData.Lighting_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:128][  0]LogLinker: Warning: Can't find file for asset '/Game/MyLevels/Lighting_BuiltData' while loading NULL.
+[2019.01.15-08.53.31:128][  0]LoadErrors: Failed to load /Game/MyLevels/Lighting_BuiltData.Lighting_BuiltData Referenced by PersistentLevel
+[2019.01.15-08.53.31:129][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.15-08.53.31:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.15-08.53.31:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97,703ms to complete.
+[2019.01.15-08.53.31:256][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.570
+[2019.01.15-08.53.31:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.53.31:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.53.31:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.53.31:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.53.31:502][  0]LogCollectionManager: Loaded 0 collections in 0.002652 seconds
+[2019.01.15-08.53.31:546][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/Collections/' took 0.01s
+[2019.01.15-08.53.31:546][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/Developers/Antoine/Collections/' took 0.01s
+[2019.01.15-08.53.31:546][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/Collections/' took 0.01s
+[2019.01.15-08.53.31:546][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.15-08.53.31:555][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2573 classes and 605 folders.
+[2019.01.15-08.53.31:561][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.15-08.53.31:615][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.15-08.53.31:622][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.15-08.53.31:624][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.15-08.53.31:632][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.15-08.53.31:722][  0]LogRenderer: Reallocating scene render targets to support 1040x612 Format 10 NumSamples 1 (Frame:1).
+[2019.01.15-08.53.31:875][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.15-08.53.31:875][  0]LogLoad: (Engine Initialization) Total time: 10.07 seconds
+[2019.01.15-08.53.31:875][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.15-08.53.31:893][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.15-08.53.31:927][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.15-08.53.31:930][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-08.53.32:117][  4]LogAssetRegistry: Asset discovery search completed in 6.2112 seconds
+[2019.01.15-08.53.32:119][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.15-08.53.32:119][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.01.15-08.53.32:913][ 51]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.15-08.53.33:601][ 89]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.15-08.53.36:977][279]LogFileCache: Retrieving MD5 hashes for directory 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/' took 5.07s
+[2019.01.15-08.53.37:144][289]LogSlate: Window 'Message Log' being destroyed
+[2019.01.15-08.53.37:149][289]LogSlate: Window 'Message Log' being destroyed
+[2019.01.15-08.53.38:112][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-08.53.38:210][352]AssetReimport: New page: Outstanding source content changes 10:53:38
+[2019.01.15-08.53.38:326][352]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyMusic/KaiEngel-TheRun-02Run.wav)
+[2019.01.15-08.53.38:500][352]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.15-08.53.38:662][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-08.53.38:732][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMusic/KaiEngel-TheRun-02Run" FILE="D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyMusic/KaiEngel-TheRun-02Run.uasset" SILENT=true
+[2019.01.15-08.53.39:014][353]LogSavePackage: Moving 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/KaiEngel-TheRun-02Run609C741E4AE4E109DC69ED97EB0957D5.tmp' to 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyMusic/KaiEngel-TheRun-02Run.uasset'
+[2019.01.15-08.53.43:923][365]LogInit: XAudio2 using 'Casque (PLT BB PRO 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-08.53.44:014][366]LogInit: XAudio2 using 'Casque (PLT BB PRO 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-08.53.46:685][525]AssetReimport: Importing new asset /Game/MyMusic/KaiEngel-TheRun-02Run.
+[2019.01.15-08.53.47:185][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.15-08.53.47:733][554]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.01.15-08.53.48:492][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-08.53.48:498][554]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.15-08.53.48:787][555]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.15-08.53.52:471][590]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2019.01.15-08.53.57:306][879]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave KaiEngel-TheRun-02Run...
+[2019.01.15-08.53.57:316][879]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.54.01:341][879]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 42666752 while cooking SoundWave /Game/MyMusic/KaiEngel-TheRun-02Run.KaiEngel-TheRun-02Run.
+[2019.01.15-08.54.31:362][663]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.15-08.54.31:385][663]LogAssetEditorManager: Opening Asset editor for World /Game/MyLevels/MainMenu.MainMenu
+[2019.01.15-08.54.31:418][663]Cmd: MAP LOAD FILE="D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyLevels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.15-08.54.31:418][663]LightingResults: New page: Lighting Build
+[2019.01.15-08.54.31:419][663]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.01.15-08.54.31:420][663]MapCheck: New page: Map Check
+[2019.01.15-08.54.31:420][663]LightingResults: New page: Lighting Build
+[2019.01.15-08.54.31:517][663]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.15-08.54.31:567][663]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.15-08.54.31:675][663]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107,663ms to complete.
+[2019.01.15-08.54.31:677][663]LogFileHelpers: Loading map 'MainMenu' took 0.260
+[2019.01.15-08.54.49:265][679]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.01.15-08.55.11:008][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_050...
+[2019.01.15-08.55.11:008][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:047][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 433920 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_050.Kallari_Kill_Enemy_050.
+[2019.01.15-08.55.11:047][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_060...
+[2019.01.15-08.55.11:047][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:082][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 369676 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_060.Kallari_Kill_Enemy_060.
+[2019.01.15-08.55.11:082][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_030...
+[2019.01.15-08.55.11:083][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:141][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 620944 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_030.Kallari_Kill_Enemy_030.
+[2019.01.15-08.55.11:141][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_040...
+[2019.01.15-08.55.11:141][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:179][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 417492 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_040.Kallari_Kill_Enemy_040.
+[2019.01.15-08.55.11:180][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_010...
+[2019.01.15-08.55.11:180][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:214][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 387424 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_010.Kallari_Kill_Enemy_010.
+[2019.01.15-08.55.11:214][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_070...
+[2019.01.15-08.55.11:214][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:256][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 450264 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_070.Kallari_Kill_Enemy_070.
+[2019.01.15-08.55.11:256][945]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_Enemy_020...
+[2019.01.15-08.55.11:256][945]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.11:302][945]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 482876 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_Enemy_020.Kallari_Kill_Enemy_020.
+[2019.01.15-08.55.26:539][799]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_FirstBlood_010...
+[2019.01.15-08.55.26:540][799]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:605][799]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 641520 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_FirstBlood_010.Kallari_Kill_FirstBlood_010.
+[2019.01.15-08.55.26:605][799]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_FirstBlood_020...
+[2019.01.15-08.55.26:605][799]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:678][799]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 815520 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_FirstBlood_020.Kallari_Kill_FirstBlood_020.
+[2019.01.15-08.55.26:679][799]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Kill_FirstBlood_030...
+[2019.01.15-08.55.26:679][799]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:735][799]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 656160 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Kill_FirstBlood_030.Kallari_Kill_FirstBlood_030.
+[2019.01.15-08.55.26:858][800]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_AbilityLevelConfirm_050...
+[2019.01.15-08.55.26:858][800]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:903][800]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 408900 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_AbilityLevelConfirm_050.Kallari_Level_AbilityLevelConfirm_050.
+[2019.01.15-08.55.26:903][800]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_AbilityLevelConfirm_040...
+[2019.01.15-08.55.26:903][800]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:941][800]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 407040 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_AbilityLevelConfirm_040.Kallari_Level_AbilityLevelConfirm_040.
+[2019.01.15-08.55.26:945][800]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_AbilityLevelConfirm_030...
+[2019.01.15-08.55.26:945][800]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.26:983][800]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 419860 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_AbilityLevelConfirm_030.Kallari_Level_AbilityLevelConfirm_030.
+[2019.01.15-08.55.26:984][800]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_AbilityLevelConfirm_020...
+[2019.01.15-08.55.26:984][800]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.27:021][800]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 427520 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_AbilityLevelConfirm_020.Kallari_Level_AbilityLevelConfirm_020.
+[2019.01.15-08.55.27:021][800]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_AbilityLevelConfirm_010...
+[2019.01.15-08.55.27:021][800]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.27:053][800]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 348020 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_AbilityLevelConfirm_010.Kallari_Level_AbilityLevelConfirm_010.
+[2019.01.15-08.55.27:164][801]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_BoughtItem_010...
+[2019.01.15-08.55.27:164][801]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.27:210][801]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 447732 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_BoughtItem_010.Kallari_Level_BoughtItem_010.
+[2019.01.15-08.55.27:210][801]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_BoughtItem_020...
+[2019.01.15-08.55.27:210][801]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.27:251][801]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 455808 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_BoughtItem_020.Kallari_Level_BoughtItem_020.
+[2019.01.15-08.55.27:252][801]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_BoughtItem_030...
+[2019.01.15-08.55.27:252][801]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.27:289][801]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 422400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_BoughtItem_030.Kallari_Level_BoughtItem_030.
+[2019.01.15-08.55.28:319][858]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_CardPoints_020...
+[2019.01.15-08.55.28:319][858]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.28:382][858]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 646076 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_CardPoints_020.Kallari_Level_CardPoints_020.
+[2019.01.15-08.55.28:383][858]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_CardPoints_030...
+[2019.01.15-08.55.28:383][858]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.28:429][858]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 499200 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_CardPoints_030.Kallari_Level_CardPoints_030.
+[2019.01.15-08.55.28:429][858]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Level_CardPoints_010...
+[2019.01.15-08.55.28:430][858]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.28:497][858]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 671640 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Level_CardPoints_010.Kallari_Level_CardPoints_010.
+[2019.01.15-08.55.28:557][859]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Emeritus_020...
+[2019.01.15-08.55.28:557][859]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.28:660][859]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1144528 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Emeritus_020.Kallari_Lore_Emeritus_020.
+[2019.01.15-08.55.28:703][859]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Emeritus_030...
+[2019.01.15-08.55.28:705][859]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.28:818][859]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1242328 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Emeritus_030.Kallari_Lore_Emeritus_030.
+[2019.01.15-08.55.28:871][859]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Emeritus_040...
+[2019.01.15-08.55.28:875][859]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:017][859]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1556748 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Emeritus_040.Kallari_Lore_Emeritus_040.
+[2019.01.15-08.55.29:085][860]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Muriel_020...
+[2019.01.15-08.55.29:085][860]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:171][860]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 884412 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Muriel_020.Kallari_Lore_Muriel_020.
+[2019.01.15-08.55.29:208][860]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Muriel_030...
+[2019.01.15-08.55.29:209][860]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:289][860]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 901120 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Muriel_030.Kallari_Lore_Muriel_030.
+[2019.01.15-08.55.29:313][860]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Muriel_040...
+[2019.01.15-08.55.29:313][860]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:406][860]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1030056 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Muriel_040.Kallari_Lore_Muriel_040.
+[2019.01.15-08.55.29:466][860]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Muriel_050...
+[2019.01.15-08.55.29:466][860]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:528][860]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 660480 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Muriel_050.Kallari_Lore_Muriel_050.
+[2019.01.15-08.55.29:576][861]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_010...
+[2019.01.15-08.55.29:576][861]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:621][861]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 503040 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_010.Kallari_Lore_Riktor_010.
+[2019.01.15-08.55.29:654][861]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_020...
+[2019.01.15-08.55.29:654][861]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:764][861]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1142400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_020.Kallari_Lore_Riktor_020.
+[2019.01.15-08.55.29:821][861]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_030...
+[2019.01.15-08.55.29:821][861]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:865][861]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 470400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_030.Kallari_Lore_Riktor_030.
+[2019.01.15-08.55.29:891][861]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_040...
+[2019.01.15-08.55.29:891][861]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.29:980][861]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 928608 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_040.Kallari_Lore_Riktor_040.
+[2019.01.15-08.55.30:822][909]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_060...
+[2019.01.15-08.55.30:823][909]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.30:884][909]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 614400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_060.Kallari_Lore_Riktor_060.
+[2019.01.15-08.55.30:909][909]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_070...
+[2019.01.15-08.55.30:909][909]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.30:953][909]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 427352 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_070.Kallari_Lore_Riktor_070.
+[2019.01.15-08.55.30:982][909]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_080...
+[2019.01.15-08.55.30:982][909]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:031][909]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 518400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_080.Kallari_Lore_Riktor_080.
+[2019.01.15-08.55.31:052][909]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Lore_Riktor_090...
+[2019.01.15-08.55.31:053][909]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:108][909]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 563892 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Lore_Riktor_090.Kallari_Lore_Riktor_090.
+[2019.01.15-08.55.31:159][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_ProfilePoke_070...
+[2019.01.15-08.55.31:196][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:617][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4583292 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_ProfilePoke_070.Kallari_ProfilePoke_070.
+[2019.01.15-08.55.31:753][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Revive_030...
+[2019.01.15-08.55.31:753][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:827][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 765864 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Revive_030.Kallari_Revive_030.
+[2019.01.15-08.55.31:827][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Revive_020...
+[2019.01.15-08.55.31:827][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:889][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 628436 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Revive_020.Kallari_Revive_020.
+[2019.01.15-08.55.31:889][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Revive_010...
+[2019.01.15-08.55.31:889][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:929][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 422400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Revive_010.Kallari_Revive_010.
+[2019.01.15-08.55.31:930][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Revive_050...
+[2019.01.15-08.55.31:930][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.31:984][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 587612 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Revive_050.Kallari_Revive_050.
+[2019.01.15-08.55.31:984][910]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Revive_040...
+[2019.01.15-08.55.31:984][910]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.32:027][910]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 459560 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Revive_040.Kallari_Revive_040.
+[2019.01.15-08.55.37:381][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Victory_020...
+[2019.01.15-08.55.37:381][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:450][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 662400 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Victory_020.Kallari_Status_Victory_020.
+[2019.01.15-08.55.37:450][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Victory_040...
+[2019.01.15-08.55.37:450][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:503][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 550344 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Victory_040.Kallari_Status_Victory_040.
+[2019.01.15-08.55.37:507][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Victory_030...
+[2019.01.15-08.55.37:508][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:579][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 797752 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Victory_030.Kallari_Status_Victory_030.
+[2019.01.15-08.55.37:584][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Victory_010...
+[2019.01.15-08.55.37:585][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:635][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 544924 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Victory_010.Kallari_Status_Victory_010.
+[2019.01.15-08.55.37:636][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Victory_050...
+[2019.01.15-08.55.37:636][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:702][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 695224 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Victory_050.Kallari_Status_Victory_050.
+[2019.01.15-08.55.37:787][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_TeamDead_030...
+[2019.01.15-08.55.37:788][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:847][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 637440 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_TeamDead_030.Kallari_Status_TeamDead_030.
+[2019.01.15-08.55.37:848][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_TeamDead_020...
+[2019.01.15-08.55.37:848][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:906][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 643200 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_TeamDead_020.Kallari_Status_TeamDead_020.
+[2019.01.15-08.55.37:911][188]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_TeamDead_010...
+[2019.01.15-08.55.37:911][188]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.37:984][188]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 718080 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_TeamDead_010.Kallari_Status_TeamDead_010.
+[2019.01.15-08.55.38:869][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Recall_050...
+[2019.01.15-08.55.38:869][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.38:933][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 691200 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Recall_050.Kallari_Status_Recall_050.
+[2019.01.15-08.55.38:933][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Recall_020...
+[2019.01.15-08.55.38:934][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.38:981][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 520800 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Recall_020.Kallari_Status_Recall_020.
+[2019.01.15-08.55.38:982][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Recall_040...
+[2019.01.15-08.55.38:982][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:026][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 475056 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Recall_040.Kallari_Status_Recall_040.
+[2019.01.15-08.55.39:027][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Recall_030...
+[2019.01.15-08.55.39:027][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:064][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 408624 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Recall_030.Kallari_Status_Recall_030.
+[2019.01.15-08.55.39:069][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Recall_010...
+[2019.01.15-08.55.39:069][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:133][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 604800 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Recall_010.Kallari_Status_Recall_010.
+[2019.01.15-08.55.39:227][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_OrbPrimeActivated_010...
+[2019.01.15-08.55.39:228][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:288][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 673752 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_OrbPrimeActivated_010.Kallari_Status_OrbPrimeActivated_010.
+[2019.01.15-08.55.39:292][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_OrbPrimeActivated_030...
+[2019.01.15-08.55.39:293][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:354][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 680468 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_OrbPrimeActivated_030.Kallari_Status_OrbPrimeActivated_030.
+[2019.01.15-08.55.39:354][231]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_OrbPrimeActivated_020...
+[2019.01.15-08.55.39:354][231]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.39:425][231]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 751380 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_OrbPrimeActivated_020.Kallari_Status_OrbPrimeActivated_020.
+[2019.01.15-08.55.40:259][278]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Idle_030...
+[2019.01.15-08.55.40:259][278]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.40:342][278]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 885856 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Idle_030.Kallari_Status_Idle_030.
+[2019.01.15-08.55.40:425][278]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Kallari_Status_Idle_010...
+[2019.01.15-08.55.40:425][278]LogTemp: Couldn't find amount to resample to.
+[2019.01.15-08.55.40:497][278]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 758084 while cooking SoundWave /Game/ParagonKallari/Audio/Wavs/Kallari_Status_Idle_010.Kallari_Status_Idle_010.
+[2019.01.15-08.56.46:062][199]BlueprintLog: New page: Compile MainMenu
+[2019.01.15-08.56.50:079][429]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-08.56.50:100][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-08.56.50:100][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-08.56.50:113][429]PIE: New page: PIE session: MainMenu (15 janv. 2019 10:56:50)
+[2019.01.15-08.56.50:114][429]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_MainMenu
+[2019.01.15-08.56.50:115][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2019.01.15-08.56.50:115][429]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.15-08.56.50:115][429]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.01.15-08.56.50:115][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/MainMenu.MainMenu to /Game/MyLevels/UEDPIE_0_MainMenu.MainMenu (0.001676s)
+[2019.01.15-08.56.50:150][429]LogInit: XAudio2 using 'Casque (PLT BB PRO 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-08.56.50:163][429]LogInit: FAudioDevice initialized.
+[2019.01.15-08.56.50:204][429]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-08.56.50:206][429]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.01.15-09.56.50
+[2019.01.15-08.56.50:206][429]LogWorld: Bringing up level for play took: 0.000351
+[2019.01.15-08.56.50:228][429]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.01.15-08.56.50:228][429]LogScript: Warning: Script Msg: Divide by zero detected: 179.999954 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-08.56.50:231][429]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_MainMenu 0,135
+[2019.01.15-08.56.50:232][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-08.56.52:428][560]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-08.57.25:031][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-08.57.25:031][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.57.25:070][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-08.57.25:070][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-08.57.25:124][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-08.57.25:136][517]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.15-09.05.06:339][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevels/MainMenu" FILE="D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/Autosaves/Game/MyLevels/MainMenu_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.15-09.05.06:521][959]LogSavePackage: Moving 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/MainMenu_Auto1D6F315F84979716DB34063ACFFDF331A.tmp' to 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/Autosaves/Game/MyLevels/MainMenu_Auto1.umap'
+[2019.01.15-09.05.06:531][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevels/MainMenu' took 0.222
+[2019.01.15-09.05.06:531][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2019.01.15-09.27.30:733][167]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-09.27.30:755][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-09.27.30:755][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-09.27.30:756][167]PIE: New page: PIE session: MainMenu (15 janv. 2019 11:27:30)
+[2019.01.15-09.27.30:756][167]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_MainMenu
+[2019.01.15-09.27.30:757][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2019.01.15-09.27.30:757][167]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.15-09.27.30:758][167]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.01.15-09.27.30:758][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/MainMenu.MainMenu to /Game/MyLevels/UEDPIE_0_MainMenu.MainMenu (0.001964s)
+[2019.01.15-09.27.30:800][167]LogInit: XAudio2 using 'Casque (PLT BB PRO 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-09.27.30:812][167]LogInit: FAudioDevice initialized.
+[2019.01.15-09.27.30:848][167]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-09.27.30:850][167]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.01.15-10.27.30
+[2019.01.15-09.27.30:851][167]LogWorld: Bringing up level for play took: 0.000543
+[2019.01.15-09.27.30:865][167]LogScript: Warning: Script Msg: Divide by zero detected: 179.999954 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-09.27.30:869][167]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_MainMenu 0,772
+[2019.01.15-09.27.30:870][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-09.27.33:085][300]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-09.28.33:968][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-09.28.33:968][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-09.28.34:003][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-09.28.34:003][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MyLevels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MyLevels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.15-09.28.34:040][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-09.28.34:084][953]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.15-09.32.07:097][800]LogSlate: Window 'Save Content' being destroyed
+[2019.01.15-09.32.07:464][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevels/MainMenu" FILE="D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyLevels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.15-09.32.07:677][800]LogSavePackage: Moving 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Saved/MainMenu1E13227F408AE9CAA4096EB16EFD5D72.tmp' to 'D:/UnrealProject/Proket_UE4_Veteran/Veteran/Content/MyLevels/MainMenu.umap'
+[2019.01.15-09.32.08:021][800]LogFileHelpers: Saving map 'MainMenu' took 0.779
+[2019.01.15-09.32.08:186][800]LogSlate: Window 'Veteran - Unreal Editor' being destroyed
+[2019.01.15-09.32.08:370][801]Cmd: QUIT_EDITOR
+[2019.01.15-09.32.08:519][801]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.15-09.32.08:532][801]LogExit: Preparing to exit.
+[2019.01.15-09.32.08:988][801]LogExit: Editor shut down
+[2019.01.15-09.32.08:988][801]LogExit: Transaction tracking system shut down
+[2019.01.15-09.32.09:471][801]LogExit: Object subsystem successfully closed.
+[2019.01.15-09.32.09:489][801]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.15-09.32.09:494][801]LogD3D11RHI: Shutdown
+[2019.01.15-09.32.09:494][801]LogD3D11RHI: CleanupD3DDevice
+[2019.01.15-09.32.09:498][801]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.15-09.32.09:519][801]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.01.15-09.32.09:519][801]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.01.15-09.32.09:519][801]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.01.15-09.32.09:519][801]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.01.15-09.32.09:519][801]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module SceneOutliner (600)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.15-09.32.09:520][801]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.15-09.32.09:521][801]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.15-09.32.10:662][801]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.15-09.32.10:663][801]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.15-09.32.10:728][801]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.15-09.32.10:733][801]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.15-09.32.10:733][801]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.15-09.32.10:733][801]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.15-09.32.10:733][801]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.15-09.32.10:733][801]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.15-09.32.10:734][801]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.15-09.32.10:780][801]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.15-09.32.10:781][801]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.15-09.32.10:781][801]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.15-09.32.10:781][801]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.15-09.32.10:781][801]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.15-09.32.10:783][801]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.15-09.32.10:784][801]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.15-09.32.10:785][801]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.15-09.32.10:885][801]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.15-09.32.10:986][801]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.15-09.32.10:987][801]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.15-09.32.10:988][801]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.15-09.32.10:994][801]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.15-09.32.10:995][801]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.15-09.32.10:996][801]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.15-09.32.10:997][801]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.15-09.32.10:997][801]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.15-09.32.10:997][801]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.15-09.32.10:997][801]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.15-09.32.10:998][801]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.15-09.32.11:038][801]LogDerivedDataCache: Shutdown
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.15-09.32.11:039][801]LogXGEController: Cleaning working directory: C:/Users/Antoine/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.15-09.32.11:039][801]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.15-09.32.11:040][801]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.15-09.32.11:040][801]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.15-09.32.11:040][801]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.15-09.32.11:040][801]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.15-09.32.11:045][801]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.15-09.32.11:046][801]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.15-09.32.11:046][801]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.15-09.32.11:046][801]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.15-09.32.11:052][801]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.15-09.32.11:052][801]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.15-09.32.11:052][801]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B556C0BF0-420E-A64B-3533-F3A3407B9184%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=de98eefb4877ff2a7bd7a1bc068b859f%7Cec4be73cf3fe4ec39c83a9a8f6d0e9cc%7C91b5bc69-694b-4c8f-b0db-5d05ae408e7f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.15-09.32.11:080][801]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.15-09.32.11:081][801]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.15-09.32.11:081][801]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.15-09.32.11:082][801]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.15-09.32.11:090][801]LogExit: Exiting.
+[2019.01.15-09.32.11:101][801]Log file closed, 01/15/19 10:32:11
