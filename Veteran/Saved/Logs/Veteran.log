@@ -8584,3 +8584,389 @@ Script call stack:
 [2019.01.15-15.02.34:407][686]SourceControl: [master 1cef530] AVENTURE FINI (ou du moins le LD )
 [2019.01.15-15.02.34:407][686]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.01.15-15.02.34:413][686]SourceControl: Commited [master 1cef530] AVENTURE FINI (ou du moins le LD ).
+[2019.01.15-15.06.04:611][469]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.06.04:632][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.06.04:632][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.06.04:632][469]PIE: New page: PIE session: Vertical_Slice (15 janv. 2019 17:06:04)
+[2019.01.15-15.06.04:632][469]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Vertical_Slice
+[2019.01.15-15.06.04:646][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013297s)
+[2019.01.15-15.06.04:647][469]LogAIModule: Creating AISystem for world Vertical_Slice
+[2019.01.15-15.06.04:647][469]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2019.01.15-15.06.04:647][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Vertical_Slice.Vertical_Slice to /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice (0.015019s)
+[2019.01.15-15.06.04:686][469]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.15-15.06.04:732][469]LogInit: FAudioDevice initialized.
+[2019.01.15-15.06.04:768][469]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-15.06.04:775][469]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice up for play (max tick rate 60) at 2019.01.15-16.06.04
+[2019.01.15-15.06.04:776][469]LogWorld: Bringing up level for play took: 0.006895
+[2019.01.15-15.06.04:789][469]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.06.04:792][469]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Vertical_Slice 0,74
+[2019.01.15-15.06.04:792][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.06.06:954][594]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-15.06.22:051][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.06.22:083][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.06.22:124][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-15.06.22:124][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.06.22:164][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.06.22:195][499]LogPlayLevel: Display: Destroying online subsystem :Context_228
+[2019.01.15-15.07.16:364][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.07.16:464][135]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.07.16:487][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.07.16:487][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.07.16:487][135]PIE: New page: PIE session: Vertical_Slice (15 janv. 2019 17:07:16)
+[2019.01.15-15.07.16:487][135]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Vertical_Slice
+[2019.01.15-15.07.16:499][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011525s)
+[2019.01.15-15.07.16:500][135]LogAIModule: Creating AISystem for world Vertical_Slice
+[2019.01.15-15.07.16:501][135]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2019.01.15-15.07.16:501][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Vertical_Slice.Vertical_Slice to /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice (0.013415s)
+[2019.01.15-15.07.16:538][135]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.15-15.07.16:587][135]LogInit: FAudioDevice initialized.
+[2019.01.15-15.07.16:621][135]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-15.07.16:628][135]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice up for play (max tick rate 60) at 2019.01.15-16.07.16
+[2019.01.15-15.07.16:629][135]LogWorld: Bringing up level for play took: 0.006586
+[2019.01.15-15.07.16:642][135]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.07.16:644][135]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Vertical_Slice 0,592
+[2019.01.15-15.07.16:644][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.07.18:803][259]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-15.09.09:007][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.09.09:036][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.09.09:080][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-15.09.09:080][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.09.09:122][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.09.09:151][811]LogPlayLevel: Display: Destroying online subsystem :Context_229
+[2019.01.15-15.13.23:369][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.13.24:437][781]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.13.24:467][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.13.24:468][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.13.24:468][781]PIE: New page: PIE session: Vertical_Slice (15 janv. 2019 17:13:24)
+[2019.01.15-15.13.24:468][781]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Vertical_Slice
+[2019.01.15-15.13.24:480][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011742s)
+[2019.01.15-15.13.24:481][781]LogAIModule: Creating AISystem for world Vertical_Slice
+[2019.01.15-15.13.24:481][781]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2019.01.15-15.13.24:482][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Vertical_Slice.Vertical_Slice to /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice (0.013532s)
+[2019.01.15-15.13.24:528][781]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.15-15.13.24:573][781]LogInit: FAudioDevice initialized.
+[2019.01.15-15.13.24:607][781]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-15.13.24:615][781]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice up for play (max tick rate 60) at 2019.01.15-16.13.24
+[2019.01.15-15.13.24:616][781]LogWorld: Bringing up level for play took: 0.007727
+[2019.01.15-15.13.24:631][781]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.13.24:634][781]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Vertical_Slice 0,582
+[2019.01.15-15.13.24:634][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.13.26:786][905]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-15.15.35:858][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.15.35:886][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.15.35:927][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-15.15.35:927][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.15.35:956][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.15.35:989][559]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2019.01.15-15.16.44:127][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.16.49:210][443]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/env_assets/rock_stacked_02_BP.rock_stacked_02_BP
+[2019.01.15-15.16.53:722][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.17.24:824][535]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.15-15.17.25:193][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.27:932][675]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.33:602][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.17.33:677][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.33:681][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.33:695][ 14]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.45:783][738]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.45:785][738]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.45:795][738]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.52:132][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.52:134][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.52:148][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:708][270]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:710][270]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:723][270]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:777][274]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.15-15.17.54:939][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:943][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:944][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.54:946][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:149][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:151][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:152][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:178][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:180][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.55:213][274]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.56:725][363]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.17.56:750][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.17.56:750][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.17.56:750][363]PIE: New page: PIE session: Vertical_Slice (15 janv. 2019 17:17:56)
+[2019.01.15-15.17.56:750][363]LogPlayLevel: Creating play world package: /Game/MyLevels/UEDPIE_0_Vertical_Slice
+[2019.01.15-15.17.56:761][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010271s)
+[2019.01.15-15.17.56:762][363]LogAIModule: Creating AISystem for world Vertical_Slice
+[2019.01.15-15.17.56:762][363]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2019.01.15-15.17.56:763][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevels/Vertical_Slice.Vertical_Slice to /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice (0.012074s)
+[2019.01.15-15.17.56:807][363]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.15-15.17.56:854][363]LogInit: FAudioDevice initialized.
+[2019.01.15-15.17.56:887][363]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.15-15.17.56:896][363]LogWorld: Bringing World /Game/MyLevels/UEDPIE_0_Vertical_Slice.Vertical_Slice up for play (max tick rate 60) at 2019.01.15-16.17.56
+[2019.01.15-15.17.56:897][363]LogWorld: Bringing up level for play took: 0.008032
+[2019.01.15-15.17.56:911][363]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonKallari/Characters/Heroes/Kallari/Kallari_AnimBlueprint.Kallari_AnimBlueprint_C:ExecuteUbergraph_Kallari_AnimBlueprint
+
+[2019.01.15-15.17.56:915][363]PIE: Play in editor start time for /Game/MyLevels/UEDPIE_0_Vertical_Slice 0,863
+[2019.01.15-15.17.56:915][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.17.59:062][488]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.01.15-15.18.29:560][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.18.29:594][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.18.29:641][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.15-15.18.29:641][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice' with GeneratedClass '/Game/MyLevels/Vertical_Slice.Vertical_Slice_C' with ClassGeneratedBy '/Game/MyLevels/Vertical_Slice.Vertical_Slice:PersistentLevel.Vertical_Slice'
+[2019.01.15-15.18.29:680][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.15-15.18.29:709][310]LogPlayLevel: Display: Destroying online subsystem :Context_233
+[2019.01.15-15.18.32:631][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.19.47:983][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.19.49:065][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.20.11:952][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.20.37:804][967]Cmd: SELECT NONE
+[2019.01.15-15.20.39:803][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.20.42:282][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.20.42:378][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.20.42:848][229]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Vertical_Slice92256DF74153980C583E329827C35268.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Vertical_Slice.umap'
+[2019.01.15-15.22.17:603][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.22.21:113][389]MapCheck: New page: Map Check
+[2019.01.15-15.22.21:125][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.22.21:153][389]LightingResults: New page: Lighting Build - 15 janv. 2019 17:22:21
+[2019.01.15-15.22.21:267][389]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.15-15.22.21:372][389]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.15-15.22.21:404][389]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.15-15.22.22:481][389]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.15-15.22.22:481][389]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8140
+[2019.01.15-15.22.29:840][389]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.01.15-15.22.29:843][389]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.15-15.22.29:843][389]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.15-15.22.29:843][389]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.15-15.22.29:843][389]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.15-15.22.29:843][389]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.15-15.22.30:198][389]LogEditorBuildUtils: Build time 0:09
+[2019.01.15-15.22.30:211][389]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_blood_water_bright, compiling. 
+[2019.01.15-15.22.30:223][389]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.15-15.22.30:223][389]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_blood_water_bright, compiling. 
+[2019.01.15-15.22.30:249][390]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.15-15.22.30:249][390]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_mesh_rock, compiling. 
+[2019.01.15-15.22.30:268][390]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.15-15.22.30:268][390]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_mesh_rock, compiling. 
+[2019.01.15-15.22.30:304][391]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.15-15.22.30:320][392]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_blood_water_dark, compiling. 
+[2019.01.15-15.22.30:336][392]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_blood_water_dark, compiling. 
+[2019.01.15-15.22.30:371][393]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_inferno_yellow, compiling. 
+[2019.01.15-15.22.30:378][393]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_inferno_yellow, compiling. 
+[2019.01.15-15.22.30:422][395]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.01.15-15.22.30:436][395]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.01.15-15.22.30:458][396]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.15-15.22.30:469][396]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMediaPlayer_Video_Mat, compiling. 
+[2019.01.15-15.22.33:884][397]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.15-15.22.33:884][397]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.15-15.24.13:332][945]Job is a success!
+[2019.01.15-15.24.13:364][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.24.13:483][946]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.090s
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:      BrickData 810x5x5 = 0.8Mb (trimmed 3.0Mb due to 0.010000 MinBrickError)
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:          0: 4.9% covering 100.0% of volume
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:          1: 56.2% covering 17.8% of volume
+[2019.01.15-15.24.13:484][946]LogVolumetricLightmapImport:          2: 38.9% covering 0.2% of volume
+[2019.01.15-15.24.16:259][946]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.15-15.24.16:259][946]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.01.15-15.24.16:259][946]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:259][946]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 512X256)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2019.01.15-15.24.16:260][946]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 64X32)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2019.01.15-15.24.16:261][946]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 256X64)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 64X64)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 256X64)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X32)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X32)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X128)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X64)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2019.01.15-15.24.16:379][946]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2019.01.15-15.24.16:460][946]Lightmass on DESKTOP-OQHTTIV: 1:41 min total, 5.05 sec importing, 1.18 sec setup, 15.0 sec photons, 1:19 min processing, 0 ms extra exporting [417/417 mappings]. Threads: 9:19 min total, 6:15 min processing.
+[2019.01.15-15.24.16:541][946]LogStaticLightingSystem: Illumination: 1:55 min (2.51 sec encoding lightmaps, 105 ms encoding shadowmaps)
+[2019.01.15-15.24.16:541][946]LogStaticLightingSystem: Lightmap texture memory:  13.3 MB (13.3 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.01.15-15.24.16:541][946]LogStaticLightingSystem: Shadowmap texture memory: 3.5 MB (3.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.01.15-15.24.16:932][946]DumpUnbuiltLightIteractions
+[2019.01.15-15.24.16:932][946]Lights with unbuilt interactions: 0
+[2019.01.15-15.24.16:932][946]
+[2019.01.15-15.24.16:932][946]Primitives with unbuilt interactions: 0
+[2019.01.15-15.24.17:031][947]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.15-15.24.17:031][947]MapCheck: New page: Vertical_Slice - 15 janv. 2019 17:24:17
+[2019.01.15-15.24.20:005][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2 972,825ms to complete.
+[2019.01.15-15.24.20:073][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.24.20:149][953]LogSlate: Window 'Message Log' being destroyed
+[2019.01.15-15.24.20:159][953]LogSlate: Window 'Message Log' being destroyed
+[2019.01.15-15.24.42:488][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.24.49:815][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.15-15.24.50:242][ 92]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Vertical_SliceB2FB27ED44004875F569C4BF2446067D.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Vertical_Slice.umap'
+[2019.01.15-15.24.51:376][ 92]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/Vertical_Slice_BuiltDataD6AF2D964038694C7248579817F85FA4.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/MyLevels/Vertical_Slice_BuiltData.uasset'
+[2019.01.15-15.24.51:512][ 92]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2019.01.15-15.24.51:512][ 92]SourceControl: Error: Veteran/Content/MyLevels/Vertical_Slice_BuiltData.uasset
+[2019.01.15-15.24.51:512][ 92]SourceControl: Error: Use -f if you really want to add them.
+[2019.01.15-15.24.55:381][318]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.15-15.25.20:248][326]LogSlate: Window 'Submit Files' being destroyed
+[2019.01.15-15.25.20:794][326]LogSourceControl: commit successful: [master 9a0ed21] light built
+[2019.01.15-15.25.20:865][326]SourceControl: [master 9a0ed21] light built
+[2019.01.15-15.25.20:865][326]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.01.15-15.25.20:874][326]SourceControl: Commited [master 9a0ed21] light built.
+[2019.01.15-15.29.25:966][136]LogSlate: Window 'Save Content' being destroyed
+[2019.01.15-15.29.26:262][136]LogSavePackage: Moving '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Saved/SideScrollerCharacterB072947844F716DD8718A19BB02DDC66.tmp' to '../../../../../../Users/Tanguy/Documents/Unreal Projects/Proket_UE4_Veteran/Veteran/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2019.01.15-15.29.26:368][136]LogSlate: Window 'Veteran - Unreal Editor' being destroyed
+[2019.01.15-15.29.26:372][136]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.15-15.29.27:498][137]Cmd: QUIT_EDITOR
+[2019.01.15-15.29.28:309][137]LogExit: Preparing to exit.
